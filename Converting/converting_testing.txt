@@ -42,6 +42,32 @@ Type the int numeric string (q - to quit):
 q
 *** End of Converting Strings to int Demo ***
 
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+2
+Converted number is 2.000000
+Type the double numeric string (q - to quit):
+123
+Converted number is 123.000000
+Type the double numeric string (q - to quit):
+8888
+Converted number is 8888.000000
+Type the double numeric string (q - to quit):
+$a
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+a55
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+123
+Converted number is 123.000000
+Type the double numeric string (q - to quit):
+99
+Converted number is 99.000000
+Type the double numeric string (q - to quit):
+q
+ End of Converting Strings to double Demo ***
 
-C:\Users\Peter\Documents\CPR101\GroupProject\ProjectSourceCode\CPR101 Group Code\x64\Debug\CPR101 Group Code.exe (process 38360) exited with code 0.
+
+C:\Users\Peter\Documents\CPR101\GroupProject\Final Submission V1\2 Final Submission\CPR Group 1 Version 2\x64\Debug\CPR Group 1 Version 2.exe (process 2672) exited with code 0.
 Press any key to close this window . . .
