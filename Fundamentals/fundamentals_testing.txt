@@ -1,16 +1,14 @@
 *** Start of Indexing Strings Demo ***
 Type not empty string (q - to quit):
-01234567890123456789012345678901234567890123456789012345678901234567890123456789hello
-Type the character position within the string:
-2
-The character found at 2 position is 'l'
-Type not empty string (q - to quit):
-01234567890123456789012345678901234567890123456789012345678901234567890123456789TheLazyFox
-Type the character position within the string:
-12
-Too big... Position reduced to max. available
-The character found at 9 position is 'x'
-Type not empty string (q - to quit):
-01234567890123456789012345678901234567890123456789012345678901234567890123456789
-Type the character position within the string:
-3
+01234567890123456789012345678901234567890123456789012345678901234567890123456789q
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+theotherside
+The length is 12
+Type a string (q - to quit):
+ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+The length is 258
+Type a string (q - to quit):
+
+The length is 0
+Type a string (q - to quit):
