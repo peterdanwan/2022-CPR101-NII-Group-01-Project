@@ -28,8 +28,23 @@ void tokenizing() {
     printf("*** End of Tokenizing Words Demo ***\n\n");
 
 /* Version 2 */
-//>> insert here
-
+    printf("*** Start of Tokenizing Phrases Demo ***\n");
+    char phrases[200];
+    char* phrase;
+    int p_counter;
+    printf("Type a few phrases separated by comma(q - to quit): \n");
+    gets(phrases);                                                      // User inputs phrase
+    while (strcmp(phrases, "q") != 0) {                                 // Checks if user input q (for quit, else)
+        phrase = strtok(phrases, ",");
+        p_counter = 1;                                                  // Initializes phrase counter
+        while (phrase) {
+            printf("Phrase $%d is \'%s\'\n", p_counter++, phrase);      // Prints phrase number and phrase value, increases counter
+            phrase = strtok(NULL, ",");                                 // Passes NULL pointer to scan for new phrases
+        }
+        printf("Type a few phrases separated by comma(q - to quit): \n");
+        gets(phrases);
+    }
+    printf("*** End of Tokenizing Phrases Demo ***\n\n");
 
 /* Version 3 */
 //>> insert here
