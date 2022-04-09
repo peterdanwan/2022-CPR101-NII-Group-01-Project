@@ -1,0 +1,114 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789Hello
+Type the character position within the string:
+2
+The character found at 2 position is 'l'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789TheLazyFox
+Type the character position within the string:
+2
+The character found at 2 position is 'e'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789q
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Testing a string that is 79 characters to account for null byte 123oojaosdfa534
+Type the 2nd string:
+Testing a string that is 79 characters to account for null byte asdfasdfdfasfdf
+Concatenated string is 'Testing a string that is 79 characters to account for null byte 123oojaosdfa534Testing a string that is 79 characters to account for null byte asdfasdfdfasfdf'
+Type the 1st string (q - to quit):
+^
+Type the 2nd string:
+a
+Concatenated string is '^a'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating STrings Demo ***
+
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+1234567890
+Converted number is 1234567890
+Type the int numeric string (q - to quit):
+987456
+Converted number is 987456
+Type the int numeric string (q - to quit):
+123
+Converted number is 123
+Type the int numeric string (q - to quit):
+8888
+Converted number is 8888
+Type the int numeric string (q - to quit):
+123
+Converted number is 123
+Type the int numeric string (q - to quit):
+99
+Converted number is 99
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+! . $ / | \n \t = + _ -!
+Word #1 is '!'
+Word #2 is '.'
+Word #3 is '$'
+Word #4 is '/'
+Word #5 is '|'
+Word #6 is '\n'
+Word #7 is '\t'
+Word #8 is '='
+Word #9 is '+'
+Word #10 is '_'
+Word #11 is '-!'
+Type a few words separated by space (q - to quit):
+This is a test for a sentence that has more than 198 characters! This is a test for a sentence that has more than 198 characters! This is a test for a sentence that has more than 198 characters! 199!
+Word #1 is 'This'
+Word #2 is 'is'
+Word #3 is 'a'
+Word #4 is 'test'
+Word #5 is 'for'
+Word #6 is 'a'
+Word #7 is 'sentence'
+Word #8 is 'that'
+Word #9 is 'has'
+Word #10 is 'more'
+Word #11 is 'than'
+Word #12 is '198'
+Word #13 is 'characters!'
+Word #14 is 'This'
+Word #15 is 'is'
+Word #16 is 'a'
+Word #17 is 'test'
+Word #18 is 'for'
+Word #19 is 'a'
+Word #20 is 'sentence'
+Word #21 is 'that'
+Word #22 is 'has'
+Word #23 is 'more'
+Word #24 is 'than'
+Word #25 is '198'
+Word #26 is 'characters!'
+Word #27 is 'This'
+Word #28 is 'is'
+Word #29 is 'a'
+Word #30 is 'test'
+Word #31 is 'for'
+Word #32 is 'a'
+Word #33 is 'sentence'
+Word #34 is 'that'
+Word #35 is 'has'
+Word #36 is 'more'
+Word #37 is 'than'
+Word #38 is '198'
+Word #39 is 'characters!'
+Word #40 is '199!'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+
+C:\Users\Peter\Documents\CPR101\GroupProject\ProjectSourceCode\CPR101 Group Code\x64\Debug\CPR101 Group Code.exe (process 13912) exited with code 0.
+Press any key to close this window . . .

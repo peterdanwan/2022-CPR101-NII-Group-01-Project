@@ -1,0 +1,56 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+warning: this program uses gets(), which is unsafe.
+Test1Word
+Word #1 is 'Test1Word'
+Type a few words separated by space (q - to quit):
+Test 3 Words
+Word #1 is 'Test'
+Word #2 is '3'
+Word #3 is 'Words'
+Type a few words separated by space (q - to quit):
+[Numbers Test: 1, 2, 3, 4, 5]
+Word #1 is 'Numbers'
+Word #2 is 'Test:'
+Word #3 is '1,'
+Word #4 is '2,'
+Word #5 is '3,'
+Word #6 is '4,'
+Word #7 is '5'
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+! . $ / \ \n \t = + _ - !
+Word #1 is '!'
+Word #2 is '.'
+Word #3 is '$'
+Word #4 is '/'
+Word #5 is '\'
+Word #6 is '\n'
+Word #7 is '\t'
+Word #8 is '='
+Word #9 is '+'
+Word #10 is '_'
+Word #11 is '-'
+Word #12 is '!'
+Type a few words separated by space (q - to quit):
+Test         Multiple            Spaces       Between           Words
+Word #1 is 'Test'
+Word #2 is 'Multiple'
+Word #3 is 'Spaces'
+Word #4 is 'Between'
+Word #5 is 'Words'
+Type a few words separated by space (q - to quit):
+This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! This is a test for a sentence that has more than 200 characters! 
+
+
+
+
+
+
+
+

@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 #include <string.h>
-
-void tokenizing(void);
+void tokenizing();
 
 #endif

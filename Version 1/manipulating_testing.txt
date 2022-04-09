@@ -1,0 +1,31 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+I like
+Type the 2nd string:
+cheese
+Concatenated string is 'I like cheese'
+Type the 1st string (q - to quit):
+12345
+Type the 2nd string:
+67890
+Concatenated string is '1234567890'
+Type the 1st string (q - to quit):
+!@#$
+Type the 2nd string:
+%^&*()_+
+Concatenated string is '!@#$%^&*()_+'
+Type the 1st string (q - to quit):
+Bananananananananananananananananananananananananananananananananananananananana
+Type the 2nd string:
+Bananananananananananananananananananananananananananananananananananananananana
+Concatenated string is 'BanananananananananananananananananananananananananananananananananananananananaBananananananananananananananananananananananananananananananananananananananana'
+Type the 1st string (q - to quit):
+BanananananananananananananananananananananananananananananananananananananananaBananananananananananananananananananananananananananananananananananananananana
+Type the 2nd string:
+BanananananananananananananananananananananananananananananananananananananananaBananananananananananananananananananananananananananananananananananananananana
+/*THE PROGRAM CRASHED RIGHT HERE BECAUSE IT RAN OUT OF MEMORY*/
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***

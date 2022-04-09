@@ -1,0 +1,47 @@
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+1234567890
+Converted number is 1234567890
+Type the int numeric string (q - to quit):
+987456
+Converted number is 987456
+Type the int numeric string (q - to quit):
+123
+Converted number is 123
+Type the int numeric string (q - to quit):
+8888
+Converted number is 8888
+Type the int numeric string (q - to quit):
+1234567890
+Converted number is 1234567890
+Type the int numeric string (q - to quit):
+2147483648
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+1234567890
+Converted number is 1234567890
+Type the int numeric string (q - to quit):
+-2147483649
+Converted number is -2147483648
+Type the int numeric string (q - to quit):
+2147483648
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+$a
+Converted number is 0
+Type the int numeric string (q - to quit):
+a55
+Converted number is 0
+Type the int numeric string (q - to quit):
+123
+Converted number is 123
+Type the int numeric string (q - to quit):
+99
+Converted number is 99
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+
+C:\Users\Peter\Documents\CPR101\GroupProject\ProjectSourceCode\CPR101 Group Code\x64\Debug\CPR101 Group Code.exe (process 38360) exited with code 0.
+Press any key to close this window . . .

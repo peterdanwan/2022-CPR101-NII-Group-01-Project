@@ -1,12 +1,11 @@
 /*
  Origin: Sebastian Rubina, srubina-sanchez@myseneca.ca, 150640217, 04/APR/2022, CPR101, Group Project
- tokenizing.c : 
- Purpose (Version 1): Separates a string into words (space separated)
- Purpose (Version 2): Separates comma delimited phrases
+ File name: tokenizing
+ Purpose: Separates a string into words (space separated)
  */
 
-#include "tokenizing.h"
 #define _CRT_SECURE_NO_WARNINGS
+#include "tokenizing.h"
 
 void tokenizing() {
 /* Version 1 */
@@ -30,6 +29,7 @@ void tokenizing() {
 
 /* Version 2 */
 //>> insert here
+
 
 /* Version 3 */
 //>> insert here
