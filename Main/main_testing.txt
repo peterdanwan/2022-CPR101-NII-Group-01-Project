@@ -5,26 +5,37 @@ Type the character position within the string:
 2
 The character found at 2 position is 'l'
 Type not empty string (q - to quit):
-01234567890123456789012345678901234567890123456789012345678901234567890123456789TheLazyFox
-Type the character position within the string:
-2
-The character found at 2 position is 'e'
-Type not empty string (q - to quit):
 01234567890123456789012345678901234567890123456789012345678901234567890123456789q
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+theotherside
+The length is 12
+Type a string (q - to quit):
+
+The length is 0
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
 *** Start of Concatenating Strings Demo ***
 Type the 1st string (q - to quit):
-Testing a string that is 79 characters to account for null byte 123oojaosdfa534
+I like
 Type the 2nd string:
-Testing a string that is 79 characters to account for null byte asdfasdfdfasfdf
-Concatenated string is 'Testing a string that is 79 characters to account for null byte 123oojaosdfa534Testing a string that is 79 characters to account for null byte asdfasdfdfasfdf'
-Type the 1st string (q - to quit):
-^
-Type the 2nd string:
-a
-Concatenated string is '^a'
+cheese
+Concatenated string is 'I like cheese'
 Type the 1st string (q - to quit):
 q
-*** End of Concatenating STrings Demo ***
+*** End of Concatenating Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+123456
+Type the 2nd string to compare:
+123
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
 
 *** Start of Converting Strings to int Demo ***
 Type the int numeric string (q - to quit):
@@ -49,20 +60,47 @@ Type the int numeric string (q - to quit):
 q
 *** End of Converting Strings to int Demo ***
 
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+2
+Converted number is 2.000000
+Type the double numeric string (q - to quit):
+123
+Converted number is 123.000000
+Type the double numeric string (q - to quit):
+8888
+Converted number is 8888.000000
+Type the double numeric string (q - to quit):
+$a
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+a55
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+123
+Converted number is 123.000000
+Type the double numeric string (q - to quit):
+99
+Converted number is 99.000000
+Type the double numeric string (q - to quit):
+q
+ End of Converting Strings to double Demo ***
+
 *** Start of Tokenizing Words Demo ***
 Type a few words separated by space(q - to quit):
-! . $ / | \n \t = + _ -!
+! . $ / \ \n \t = + _ - !
 Word #1 is '!'
 Word #2 is '.'
 Word #3 is '$'
 Word #4 is '/'
-Word #5 is '|'
+Word #5 is '\'
 Word #6 is '\n'
 Word #7 is '\t'
 Word #8 is '='
 Word #9 is '+'
 Word #10 is '_'
-Word #11 is '-!'
+Word #11 is '-'
+Word #12 is '!'
 Type a few words separated by space (q - to quit):
 This is a test for a sentence that has more than 198 characters! This is a test for a sentence that has more than 198 characters! This is a test for a sentence that has more than 198 characters! 199!
 Word #1 is 'This'
@@ -109,6 +147,23 @@ Type a few words separated by space (q - to quit):
 q
 *** End of Tokenizing Words Demo ***
 
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+, , ,
+Phrase $1 is ' '
+Phrase $2 is ' '
+Phrase $3 is ' '
+Type a few phrases separated by comma(q - to quit):
+1st, 2nd phrase, The third phrase, This is 4th phrase, This is the 5th phrase
+Phrase $1 is '1st'
+Phrase $2 is ' 2nd phrase'
+Phrase $3 is ' The third phrase'
+Phrase $4 is ' This is 4th phrase'
+Phrase $5 is ' This is the 5th phrase'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
 
-C:\Users\Peter\Documents\CPR101\GroupProject\ProjectSourceCode\CPR101 Group Code\x64\Debug\CPR101 Group Code.exe (process 13912) exited with code 0.
+
+C:\Users\Peter\Documents\CPR101\GroupProject\Final Submission V1\2 Final Submission\CPR Group 1 Version 2\x64\Debug\CPR Group 1 Version 2.exe (process 30908) exited with code 0.
 Press any key to close this window . . .

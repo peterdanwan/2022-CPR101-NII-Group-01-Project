@@ -11,10 +11,10 @@ Purpose: Start of application - runs the following functions in this order: fund
 
 int main() {				// Start of the main application/program.
 	
-	fundamentals();			// Calls the void fundamentals(); function.
-	manipulating();			// Calls the void manipulating(); function.
+	//fundamentals();			// Calls the void fundamentals(); function.
+	//manipulating();			// Calls the void manipulating(); function.
 	converting();			// Calls the void converting(); function.
-	tokenizing();			// Calls the void tokenizing(); function.
+	//tokenizing();			// Calls the void tokenizing(); function.
 
 	return 0;				// Main function returns 0 to exit program properly.
 }							// End of main function. 
