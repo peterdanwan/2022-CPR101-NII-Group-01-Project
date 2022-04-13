@@ -1,35 +1,40 @@
-*** Start of Comparing Strings Demo ***
-Type the 1st string to compare (q - to quit):
+*** Start of Searching Strings Demo ***
+Type the big string (q - to quit):
 
-Type the 2nd string to compare:
+Type the substring:
 
-1st string is equal to 2nd
-Type the 1st string to compare (q - to quit):
-I really like
-Type the 2nd string to compare:
-cheese
-1st string is less than 2nd
-Type the 1st string to compare (q - to quit):
-Important
-Type the 2nd string to compare:
-cat
-1st string is less than 2nd
-Type the 1st string to compare (q - to quit):
-123456
-Type the 2nd string to compare:
-123
-1st string is greater than 2nd
-Type the 1st string to compare (q - to quit):
-!@#$%
-Type the 2nd string to compare:
-^&*()_+
-1st string is less than 2nd
-Type the 1st string to compare (q - to quit):
-BanananananananananananananananananananananananananananananananananananananananaBananananananananananananananananananananananananananananananananananananananana
-Type the 2nd string to compare:
-BanananananananananananananananananananananananananananananananananananananananaBananananananananananananananananananananananananananananananananananananananana
-1st string is less than 2nd
-Type the 1st string to compare (q - to quit):
+Found at 0 position
+Type the big string (q - to quit):
+I like cheese
+Type the substring:
+like
+Found at 2 position
+Type the big string (q - to quit):
+1 2 3
+Type the substring:
+2
+Found at 2 position
+Type the big string (q - to quit):
+
+Type the substring:
+2
+Not found
+Type the big string (q - to quit):
+2
+Type the substring:
+
+Found at 0 position
+Type the big string (q - to quit):
+!@#
+Type the substring:
+@
+Found at 1 position
+Type the big string (q - to quit):
+This is a very longggggggggggggggggggggggggggggggggggggggggggggggggggggggggg sentence.
+Type the substring:
+.
+Found at 85 position
+Type the big string (q - to quit):
 q
-*** End of Comparing Strings Demo ***
+*** End of Searching STrings Demo ***
 

@@ -1,0 +1,35 @@
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+
+Type the 2nd string to compare:
+
+1st string is equal to 2nd
+Type the 1st string to compare (q - to quit):
+I really like
+Type the 2nd string to compare:
+cheese
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+Important
+Type the 2nd string to compare:
+cat
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+123456
+Type the 2nd string to compare:
+123
+1st string is greater than 2nd
+Type the 1st string to compare (q - to quit):
+!@#$%
+Type the 2nd string to compare:
+^&*()_+
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+BanananananananananananananananananananananananananananananananananananananananaBananananananananananananananananananananananananananananananananananananananana
+Type the 2nd string to compare:
+BanananananananananananananananananananananananananananananananananananananananaBananananananananananananananananananananananananananananananananananananananana
+1st string is less than 2nd
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
